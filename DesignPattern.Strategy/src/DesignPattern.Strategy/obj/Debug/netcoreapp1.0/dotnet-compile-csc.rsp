@@ -7,8 +7,8 @@
 -debug:full
 -nostdlib
 -nologo
-"C:\Users\RayCheng\Desktop\DesignPattern.Strategy\src\DesignPattern.Strategy\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
--out:"C:\Users\RayCheng\Desktop\DesignPattern.Strategy\src\DesignPattern.Strategy\bin\Debug\netcoreapp1.0\DesignPattern.Strategy.dll"
+"C:\Users\RayCheng\Desktop\DesignPatternExample\DesignPattern.Strategy\src\DesignPattern.Strategy\obj\Debug\netcoreapp1.0\dotnet-compile.assemblyinfo.cs"
+-out:"C:\Users\RayCheng\Desktop\DesignPatternExample\DesignPattern.Strategy\src\DesignPattern.Strategy\bin\Debug\netcoreapp1.0\DesignPattern.Strategy.dll"
 -r:"C:\Users\RayCheng\.nuget\packages\Microsoft.CSharp\4.0.1\ref\netstandard1.0\Microsoft.CSharp.dll"
 -r:"C:\Users\RayCheng\.nuget\packages\Microsoft.VisualBasic\10.0.1\ref\netstandard1.1\Microsoft.VisualBasic.dll"
 -r:"C:\Users\RayCheng\.nuget\packages\Microsoft.Win32.Primitives\4.0.1\ref\netstandard1.3\Microsoft.Win32.Primitives.dll"
@@ -82,7 +82,7 @@
 -r:"C:\Users\RayCheng\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll"
 -r:"C:\Users\RayCheng\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll"
 -r:"C:\Users\RayCheng\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll"
-"C:\Users\RayCheng\Desktop\DesignPattern.Strategy\src\DesignPattern.Strategy\Order.cs"
-"C:\Users\RayCheng\Desktop\DesignPattern.Strategy\src\DesignPattern.Strategy\Program.cs"
-"C:\Users\RayCheng\Desktop\DesignPattern.Strategy\src\DesignPattern.Strategy\StrategyPatternOrder.cs"
-"C:\Users\RayCheng\Desktop\DesignPattern.Strategy\src\DesignPattern.Strategy\Properties\AssemblyInfo.cs"
+"C:\Users\RayCheng\Desktop\DesignPatternExample\DesignPattern.Strategy\src\DesignPattern.Strategy\Order.cs"
+"C:\Users\RayCheng\Desktop\DesignPatternExample\DesignPattern.Strategy\src\DesignPattern.Strategy\Program.cs"
+"C:\Users\RayCheng\Desktop\DesignPatternExample\DesignPattern.Strategy\src\DesignPattern.Strategy\StrategyPatternOrder.cs"
+"C:\Users\RayCheng\Desktop\DesignPatternExample\DesignPattern.Strategy\src\DesignPattern.Strategy\Properties\AssemblyInfo.cs"

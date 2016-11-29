@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace DesignPattern.Strategy.WithoutStrategy
 {
-    public class Order
+    public abstract class Order
     {
         public string Id { get; set; }
         public double Amount { get; set; }
